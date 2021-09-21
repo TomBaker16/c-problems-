@@ -25,7 +25,7 @@ int main(int argc, string argv[])
         return 1;
     }
 
-    // lets prompt the user for the plaintext to be encrypted
+    // lets now prompt the user for the plaintext to be encrypted
 
     string plaintext;
 
